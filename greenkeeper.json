@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "fiber/package.json",
+        "stack/package.json"
+      ]
+    }
+  }
+}
